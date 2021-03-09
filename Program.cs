@@ -6,7 +6,7 @@ namespace The_Boat
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Eb. Thanks for opening this file.:)");
+            Console.WriteLine("Hello Eb. Thanks for opening this file.:). i am adding more changes right now.");
         }
     }
 }
